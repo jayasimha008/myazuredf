@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1_jay",
+	"name": "OutputFolder_jay",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorage1_jay",
