@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"folderPath": "root/Jay",
+				"folderPath": "root/Jay/output",
 				"container": "externalmetastore"
 			},
 			"columnDelimiter": ",",
